@@ -60,6 +60,8 @@
     
 // 准备rebase
     
+//    main 修改
+    
     NSBundle *bundle = [NSBundle mainBundle];
     NSURL *url = [bundle URLForResource:@"SVProgressHUD" withExtension:@"bundle"];
     NSBundle *imageBundle = [NSBundle bundleWithURL:url];
