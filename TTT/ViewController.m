@@ -58,6 +58,8 @@
     
 //    UIImage *a = [ThirdManager thirdpartHeadImage];
     
+// 准备rebase
+    
     NSBundle *bundle = [NSBundle mainBundle];
     NSURL *url = [bundle URLForResource:@"SVProgressHUD" withExtension:@"bundle"];
     NSBundle *imageBundle = [NSBundle bundleWithURL:url];
