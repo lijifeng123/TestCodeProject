@@ -54,7 +54,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    
+//    change 1
     
 //    UIImage *a = [ThirdManager thirdpartHeadImage];
     
